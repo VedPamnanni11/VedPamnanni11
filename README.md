@@ -9,7 +9,6 @@ Right now I’m mostly playing around with Python and slowly getting into some w
 
 - Python (little games, calculators, small scripts)
 - Git & GitHub (still getting used to commits and branches)
-- Basic HTML & CSS
 - How to actually finish projects instead of just starting them 🙂
 
 ---
@@ -36,7 +35,6 @@ I know these are small, but I'm trying to make a lot of them and improve a bit e
 
 - Make a few more Python projects (maybe a small website or a simple app)  
 - Get better at writing cleaner code and better READMEs  
-- Learn more HTML/CSS and start using JavaScript
 
 ---
 
