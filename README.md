@@ -1,19 +1,18 @@
 # Hey, I'm Ved 👋
 
 I'm a 14-year-old student from Dublin, Ireland. I first started coding in 2022 on **Scratch (MIT)**, where I made lots of projects and games. Then in 2023, I started learning **Python**, and I’ve been building small programs and scripts ever since.  
-Right now I’m mostly playing around with Python and slowly getting into some web stuff.
+On June 3, 2026 I started CS50P: Introduction to Programming with Python from Harvard and finished it on July 30, 2026. You can view my certificate on my Instagram: [@ved_pamnani.11](https://www.instagram.com/ved_pamnani.11/)
 
 ---
 
 ## What I'm learning
 
-- Python (little games, calculators, small scripts)
 - Git & GitHub (still getting used to commits and branches)
 - How to actually finish projects instead of just starting them 🙂
 
 ---
 
-## Some of my projects
+## Some of my projects (Before CS50P)
 
 - [BMI-calculator](https://github.com/VedPamnanni11/BMI-calculator)  
   Simple Python program that asks for your height and weight and calculates your BMI in the terminal.
@@ -33,7 +32,7 @@ I know these are small, but I'm trying to make a lot of them and improve a bit e
 
 ## What I'm planning next
 
-- Make a few more Python projects (maybe a small website or a simple app)  
+- Make a few more big Python projects (maybe a small website or some automations) by using all the info I got from CS50P.
 - Get better at writing cleaner code and better READMEs  
 
 ---
