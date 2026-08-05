@@ -32,7 +32,7 @@ I know these are small, but I'm trying to make a lot of them and improve a bit e
 
 ## What I'm planning next
 
-- Make a few more big Python projects (maybe a small website or some automations) by using all the info I got from CS50P.
+- Make a few big Python projects (maybe a small website or some automations) by using all the info I got from CS50P.
 - Get better at writing cleaner code and better READMEs  
 
 ---
