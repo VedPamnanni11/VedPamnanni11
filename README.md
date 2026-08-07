@@ -2,7 +2,7 @@
 
 I'm a 14-year-old student from Dublin, Ireland. I first started coding in 2022 on **Scratch (MIT)**, where I made lots of projects and games. Then in 2023, I started learning **Python**, and I’ve been building small programs and scripts ever since.  
 On June 3, 2026 I started CS50P: Introduction to Programming with Python from Harvard and finished it on July 30, 2026. You can check me out on my socials
-Instagram: [@ved_pamnani.11](https://www.instagram.com/ved_pamnani.11/) and YouTube: https://www.youtube.com/channel/UC4DrmzslrzWRv6EmxrZNCsQ
+Instagram: [@ved_pamnani.11](https://www.instagram.com/ved_pamnani.11/) and YouTube: [https://www.youtube.com/channel/UC4DrmzslrzWRv6EmxrZNCsQ](https://www.youtube.com/@VedPamnani)
 
 ---
 
