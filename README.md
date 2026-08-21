@@ -30,10 +30,10 @@ These are the primary languages and tools I use. I focus on writing clear, well-
 
 ## ⭐ Featured projects
 
-- [GitHub-User-Info-Collector-using-GitHub-API](https://github.com/VedPamnanni11/GitHub-User-Info-Collector-using-GitHub-API) — Collects general, repo and language info for a GitHub user and exports to CSV.
-- [password-manager](https://github.com/VedPamnanni11/password-manager) — A small password manager project demonstrating safe storage and retrieval.
-- [QR-code-generator](https://github.com/VedPamnanni11/QR-code-generator) — Generates QR codes for text/links using Python.
-- [Number-guessing-game-reversed](https://github.com/VedPamnanni11/Number-guessing-game-reversed) — The computer guesses the number you think of (under 10 guesses).
+- [GitHub-User-Info-Collector-using-GitHub-API](https://github.com/VedPamnanni11/GitHub-User-Info-Collector-using-GitHub-API) — Collects general, repo and language info for a GitHub user and exports to CSV. (created before CS50P)
+- [password-manager](https://github.com/VedPamnanni11/password-manager) — A small password manager project demonstrating safe storage and retrieval. (created before CS50P)
+- [QR-code-generator](https://github.com/VedPamnanni11/QR-code-generator) — Generates QR codes for text/links using Python. (created before CS50P)
+- [Number-guessing-game-reversed](https://github.com/VedPamnanni11/Number-guessing-game-reversed) — The computer guesses the number you think of (under 10 guesses). (created before CS50P)
 
 I build small, focused tools and iteratively improve them — making better UX and cleaner code each time.
 
