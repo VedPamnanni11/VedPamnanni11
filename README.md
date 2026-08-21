@@ -40,8 +40,17 @@ I build small, focused tools and iteratively improve them — making better UX a
 
 ## 📈 GitHub Stats
 
+> If the images below don't load for you, open these links directly in your browser: https://github-readme-stats.vercel.app and https://github.com/anuraghazra/github-readme-stats
+
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VedPamnanni11&show_icons=true&theme=default" />
+  <!-- Primary stats card (fallback theme 'radical') -->
+  <a href="https://github.com/VedPamnanni11">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VedPamnanni11&show_icons=true&theme=radical" />
+  </a>
+
+  <!-- Top languages (compact) -->
+  <br />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedPamnanni11&layout=compact&theme=radical" />
 </p>
 
 ---
