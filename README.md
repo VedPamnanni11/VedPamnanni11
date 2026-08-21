@@ -46,6 +46,14 @@ I build small, focused tools and iteratively improve them — making better UX a
 
 ---
 
+## 🏅 Certifications
+
+[![CS50P Certificate](https://img.shields.io/badge/CS50P-Certificate-red?style=for-the-badge)](https://certificates.cs50.io/70cbacab-a953-4a80-92ac-930e882eef09.pdf?size=letter)
+
+- CS50P: Introduction to Programming with Python — Harvard (Jun 3 — Jul 30, 2026). View certificate: https://certificates.cs50.io/70cbacab-a953-4a80-92ac-930e882eef09.pdf?size=letter
+
+---
+
 ## 📫 Get in touch
 
 - Instagram: [@ved_pamnani.11](https://www.instagram.com/ved_pamnani.11/)
