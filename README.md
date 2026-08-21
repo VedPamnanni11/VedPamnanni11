@@ -1,45 +1,63 @@
 # Hey, I'm Ved 👋
 
-I'm a 14-year-old student from Dublin, Ireland. I first started coding in 2022 on **Scratch (MIT)**, where I made lots of projects and games. Then in 2023, I started learning **Python**, and I’ve been building small programs and scripts ever since.  
-On June 3, 2026 I started CS50P: Introduction to Programming with Python from Harvard and finished it on July 30, 2026. You can check me out on my socials
-Instagram: [@ved_pamnani.11](https://www.instagram.com/ved_pamnani.11/) and YouTube: [https://www.youtube.com/channel/UC4DrmzslrzWRv6EmxrZNCsQ](https://www.youtube.com/@VedPamnani)
+<img src="https://github.com/VedPamnanni11.png" alt="Ved's avatar" width="110" align="right">
+
+I'm a 14-year-old programmer from Dublin, Ireland. I started with Scratch and now focus on building projects in Python. I recently completed Harvard's CS50P: Introduction to Programming with Python (Jun 3 — Jul 30, 2026) and I'm actively building small tools and learning to ship polished projects.
+
 
 ---
 
-## What I'm learning
+## 🚀 Quick links
 
-- Git & GitHub (still getting used to commits and branches)
-- How to actually finish projects instead of just starting them 🙂
-
----
-
-## Some of my projects (Before CS50P)
-
-- [BMI-calculator](https://github.com/VedPamnanni11/BMI-calculator)  
-  Simple Python program that asks for your height and weight and calculates your BMI in the terminal.
-
-- [QR-code-generator](https://github.com/VedPamnanni11/QR-code-generator)  
-  Takes some text or a link and turns it into a QR code image using Python.
-
-- [Number-guessing-game](https://github.com/VedPamnanni11/Number-guessing-game)  
-  Classic guessing game where you try to guess a random number.
-
-- [Number-guessing-game-reversed](https://github.com/VedPamnanni11/Number-guessing-game-reversed)  
-  This time the computer tries to guess **your** number instead.
-
-I know these are small, but I'm trying to make a lot of them and improve a bit every time.
+- 🔭 Currently learning: Python, project structure, and clean code
+- 💬 Ask me about: Beginner-friendly Python, small automation scripts, and making terminal apps
+- 📫 Contact: [GitHub](https://github.com/VedPamnanni11) • [Instagram](https://www.instagram.com/ved_pamnani.11/) • [YouTube](https://www.youtube.com/@VedPamnani)
 
 ---
 
-## What I'm planning next
+## 🛠️ Languages & Tools
 
-- Make a few big Python projects (maybe a small website or some automations) by using all the info I got from CS50P.
-- Get better at writing cleaner code and better READMEs  
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img alt="Scratch" src="https://img.shields.io/badge/Scratch-FF6F61?style=for-the-badge&logo=scratch&logoColor=white"> 
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+These are the primary languages and tools I use. I focus on writing clear, well-documented Python code and improving my Git & GitHub workflow.
 
 ---
 
-## Contact
+## ⭐ Featured projects
 
-GitHub: **@VedPamnanni11**  
+- [GitHub-User-Info-Collector-using-GitHub-API](https://github.com/VedPamnanni11/GitHub-User-Info-Collector-using-GitHub-API) — Collects general, repo and language info for a GitHub user and exports to CSV.
+- [password-manager](https://github.com/VedPamnanni11/password-manager) — A small password manager project demonstrating safe storage and retrieval.
+- [QR-code-generator](https://github.com/VedPamnanni11/QR-code-generator) — Generates QR codes for text/links using Python.
+- [Number-guessing-game-reversed](https://github.com/VedPamnanni11/Number-guessing-game-reversed) — The computer guesses the number you think of (under 10 guesses).
 
-Thanks for checking out my profile 🙂
+I build small, focused tools and iteratively improve them — making better UX and cleaner code each time.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VedPamnanni11&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- Ship a small web project or automation using Python.
+- Improve repository structure, tests, and README quality for each project.
+- Learn more about packaging Python tools and deploying simple apps.
+
+---
+
+## 📫 Get in touch
+
+- Instagram: [@ved_pamnani.11](https://www.instagram.com/ved_pamnani.11/)
+- YouTube: https://www.youtube.com/@VedPamnani
+- GitHub: [@VedPamnanni11](https://github.com/VedPamnanni11)
+
+Thanks for stopping by — I'm always excited to collaborate or get feedback on my projects! 🌟
