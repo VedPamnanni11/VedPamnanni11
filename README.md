@@ -20,6 +20,7 @@ I'm a 14-year-old programmer from Dublin, Ireland. I started with Scratch and no
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img alt="Scratch" src="https://img.shields.io/badge/Scratch-FF6F61?style=for-the-badge&logo=scratch&logoColor=white"> 
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
