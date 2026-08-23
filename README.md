@@ -11,7 +11,7 @@ I'm a 14-year-old programmer from Dublin, Ireland. I started with Scratch and no
 
 - 🔭 Currently learning: Python, project structure, and clean code
 - 💬 Ask me about: Beginner-friendly Python, small automation scripts, and making terminal apps
-- 📫 Contact: [GitHub](https://github.com/VedPamnanni11) • [Instagram](https://www.instagram.com/ved_pamnani.11/) • [YouTube](https://www.youtube.com/@VedPamnani) • [Reddit](https://www.reddit.com/user/VedPamnani11/)
+- 📫 Contact: [GitHub](https://github.com/VedPamnanni11) • [Instagram](https://www.instagram.com/ved_pamnani.11/) • [YouTube](https://www.youtube.com/@VedPamnani) • [Reddit](https://www.reddit.com/user/VedPamnani11/) • [TikTok](https://www.tiktok.com/@ved.pamnani)
 
 ---
 
