@@ -61,5 +61,6 @@ I build small, focused tools and iteratively improve them — making better UX a
 - YouTube: https://www.youtube.com/@VedPamnani
 - Reddit: [VedPamnani11](https://www.reddit.com/user/VedPamnani11/)
 - GitHub: [@VedPamnanni11](https://github.com/VedPamnanni11)
+- TikTok: [@ved.pamnani](https://www.tiktok.com/@ved.pamnani)
 
 Thanks for stopping by — I'm always excited to collaborate or get feedback on my projects! 🌟
